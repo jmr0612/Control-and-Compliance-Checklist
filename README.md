@@ -14,4 +14,7 @@ The Code and Compliance Checklist is aimed at showing entry-level skills require
 
 ## Steps
 
+1. Review the company's scope, goals, and assessment report
+
+
 
