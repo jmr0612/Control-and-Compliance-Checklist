@@ -13,8 +13,8 @@ The Code and Compliance Checklist is aimed at showing entry-level skills require
 - Knowlege of security controls
 
 ## Steps
-
-1. Review the company's scope, goals, and assessment report
-
+|-----------------------------------------------|----------------------------|
+| Review and Analysis of Company's Scope, Goals and Risk Assessment| <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 
 
