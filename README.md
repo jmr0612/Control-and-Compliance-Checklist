@@ -14,7 +14,8 @@ The Code and Compliance Checklist is aimed at showing entry-level skills require
 
 ## Steps
 
-| Review and Analysis of Company's Scope, Goals and Risk Assessment| <a href="[https://google.com](https://github.com/jmr0612/Control-and-Compliance-Checklist/blob/main/Botium%20Toys_%20Scope%2C%20goals%2C%20and%20risk%20assessment%20report.docx)">Scope, Goals and Risk Assessment</a>|
-| Control and Compliance Checklist | <a href="https://google.com">Detection Lab</a>|
+| Review and Analysis of Company's Scope, Goals and Risk Assessment | <a href="https://github.com/jmr0612/Control-and-Compliance-Checklist/blob/main/Botium%20Toys_%20Scope%2C%20goals%2C%20and%20risk%20assessment%20report.docx">Scope, Goals and Risk Assessment</a>|
+
+| Control and Compliance Checklist | <a href="https://github.com/jmr0612/Control-and-Compliance-Checklist/blob/main/Controls%20and%20Compliance%20Checklist.docx">Control and Compliance Checklist</a>|
 
 
